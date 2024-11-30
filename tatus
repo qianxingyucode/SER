@@ -1,0 +1,331 @@
+[33mcommit be03c3e7323e0940d0929a267a6c51fcf0724d54[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: qianxingyucode <2805741016@qq.com>
+Date:   Sat Nov 30 14:11:27 2024 +0800
+
+    Add opensmile folder and update README.md
+
+[33mcommit 4844727b68d9e16b983d4df9a4cbc9dda54fbbb6[m
+Author: qianxingyucode <2805741016@qq.com>
+Date:   Sat Nov 30 13:57:54 2024 +0800
+
+    Update README.md with improved formatting and emojis
+
+[33mcommit c887a0c5b6326fd405d23658fbbb19a1c1cd7c34[m
+Author: qianxingyucode <2805741016@qq.com>
+Date:   Sat Nov 30 13:41:33 2024 +0800
+
+    Initial commit
+
+[33mcommit 64e2f48be4ed0ed3fba3f85af824209f6c5c3884[m
+Author: Xiaohan Zou <renovamenzxh@gmail.com>
+Date:   Sat Apr 16 14:46:02 2022 -0400
+
+    fix: upload the latest checkpoints, close #29
+
+[33mcommit 39db88cb0563d384d467e51c46e5a2352a37afea[m
+Author: Xiaohan Zou <renovamenzxh@gmail.com>
+Date:   Tue Mar 22 15:25:24 2022 -0400
+
+    docs: opensmile is optional
+
+[33mcommit 48a3838e65ce15ab3f926acf9540cfcc0b926a4b[m
+Author: Xiaohan Zou <renovamenzxh@gmail.com>
+Date:   Mon Mar 21 12:21:59 2022 -0400
+
+    fix: add a missing dependency
+
+[33mcommit a4c9442db54ceee42e2ba828facb46b64221b65a[m
+Author: Xiaohan Zou <renovamenzxh@gmail.com>
+Date:   Sat Mar 12 15:25:33 2022 -0500
+
+    docs: update
+
+[33mcommit adf1e8b2022f5fbf3ffe33ddea89f8958114795f[m
+Author: Xiaohan Zou <renovamenzxh@gmail.com>
+Date:   Sat Mar 12 15:17:46 2022 -0500
+
+    fix(utils): waveform (caused by upgrade)
+
+[33mcommit efae4deb87c476e072debe23de61648a607970bf[m
+Author: Xiaohan Zou <renovamenzxh@gmail.com>
+Date:   Sat Mar 12 01:29:18 2022 -0500
+
+    fix: predict (caused by upgrade)
+
+[33mcommit 1af9b2da7e27f375b069e57de9f043f3868f25a6[m
+Author: Xiaohan Zou <renovamenzxh@gmail.com>
+Date:   Sat Mar 12 00:50:00 2022 -0500
+
+    perf: speed up opensmile, close #24
+
+[33mcommit 1346cbbec85c3e02249323dfe381f1ac25adf6a0[m
+Author: Xiaohan Zou <renovamenzxh@gmail.com>
+Date:   Sat Mar 12 00:11:22 2022 -0500
+
+    refactor: upgrade libraries (including Keras) and refactor code
+
+[33mcommit 4f09bf79bc1b7426917e711a29f11f93ab70bb07[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Thu Mar 18 10:27:17 2021 +0800
+
+    refactor(utils): rename some functions
+
+[33mcommit 8bc7f2646b7f3c68febc0f66c0ca062a0bbda327[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Thu Mar 18 10:06:47 2021 +0800
+
+    refactor: a better implementation of model class
+
+[33mcommit bd84f85f90aa4f125c9daf5ceca53c9b0114a4b6[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Wed Mar 17 20:56:36 2021 +0800
+
+    refactor: reconstruct model class
+
+[33mcommit d7458376c52dd03831d5892782ab3e3f8083977d[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Wed Mar 17 20:14:52 2021 +0800
+
+    style: format docstrings
+
+[33mcommit c5f766a0f66c77df30c6d75e86d97c27c2bbb240[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Wed Sep 30 23:52:42 2020 +0800
+
+    chore: add license
+
+[33mcommit b3c331215375f64b7c9d7010798a1fcf86a17357[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Wed Sep 23 12:37:09 2020 +0800
+
+    fix: make paths compatible with both Linux and Windows (#15)
+    
+    Use `os.path.join` to handle `\` (Windows) and `/` (Linux).
+
+[33mcommit 301a7dd5e2ceec804d2600ac58381a9e1a28906a[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Fri Aug 21 22:00:36 2020 +0800
+
+    fix: batch size can be configured  now
+
+[33mcommit 6af5bf1f07a9b3d38e5b64b3290bc830f74e0b4f[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Fri Aug 21 15:33:33 2020 +0800
+
+    add: sklearn params and Keras learning rates can be set in config files
+
+[33mcommit 3263a5f94051e8be9e7033bdfab1d0495dd92071[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Fri Aug 21 12:07:59 2020 +0800
+
+    docs: fix typos
+
+[33mcommit 38fdcca9c3b073f5a7a7d543ac613e915498a050[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Fri Aug 21 12:04:26 2020 +0800
+
+    docs: update docs
+
+[33mcommit 4c7a3e54b49e6f08f9acf6f6a666a439c732fec8[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Fri Aug 21 11:05:02 2020 +0800
+
+    refactor & add: refactor code and support 1D CNN
+
+[33mcommit 36f5c5ea694562f62889e9cc3ec2abba947c1f5d[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Wed May 27 17:55:46 2020 +0800
+
+    docs: update readme
+
+[33mcommit 1c2582792ec1689ad0232276f19e504d42236c7d[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Wed May 27 17:29:46 2020 +0800
+
+    remove: move pretrained models to model-backup branch for convenience
+
+[33mcommit 64a9b2e34b7c7d0e09068fb466ac8c5d0a0c2066[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Tue May 26 15:43:05 2020 +0800
+
+    docs: fix typos
+
+[33mcommit 8b535ed4aaf192318ac75648f6935c60003889dd[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Tue May 26 04:39:53 2020 +0800
+
+    refactor & fix: refactor code and fix some bugs
+
+[33mcommit c7e57f76ad3985e8b62001582365a418e5d982f8[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Sun Jul 7 17:30:08 2019 +0800
+
+    [Docs] Fix
+
+[33mcommit 28968144793d1f014999e8c8b3f66af22ed11133[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Sun Jul 7 17:26:01 2019 +0800
+
+    [Docs] Play audio and plot curve
+
+[33mcommit f58d95cdda70dffe34f5b6ef86f8e2016b1f95f2[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Wed Jul 3 19:18:01 2019 +0800
+
+    [Feat] Play an audio
+
+[33mcommit fcf76717977f96984e785e71c5e8b4535728b672[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Mon Jul 1 23:47:33 2019 +0800
+
+    [Docs] Label information of EMODB
+
+[33mcommit 8328da8e6b8e3f2722038fc71eee3090d342641a[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Mon Jul 1 23:44:40 2019 +0800
+
+    [Docs] Label information of EMODB
+
+[33mcommit 9cd3ff1f6149398c916c4fe6f71f8301e8477215[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Mon Jul 1 23:37:53 2019 +0800
+
+    [Chore] Features of SAVEE, RAVDESS and EMODB
+
+[33mcommit 7943dcba570e37154cec79596e8bf59ba72f1d30[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Sun Jun 30 20:58:55 2019 +0800
+
+    [Feat] Improve LSTM, plot curves of loss and accuracy
+
+[33mcommit 9d8cbb271bbf9125ff8252123438565845a67d9d[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Tue Jun 4 00:32:45 2019 +0800
+
+    [Chore] Delete .DS_Store
+
+[33mcommit 423e443f45e4670a27bbd0a16355df8e1fec742c[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Fri May 24 18:54:32 2019 +0800
+
+    [Docs] Fix little mistake
+
+[33mcommit 2a15e86f56e782e392ab4894d52e04d5520ba1fb[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Fri May 24 18:40:08 2019 +0800
+
+    [Test] Add examples of cmd input (cmd_example.sh)
+
+[33mcommit 221fd5fecb22d85c64b75a12f97352b0eab5fbd7[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Wed May 22 20:28:56 2019 +0800
+
+    [Docs] Add English document
+
+[33mcommit 2cb73c0c0fdf62aec7dba990ef6e2a6db407c7d8[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Wed May 22 15:16:58 2019 +0800
+
+    [Docs] Update dependency version
+
+[33mcommit 6b2d5b9fd6689e274dbe506a22d633aaabc9fe3e[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Wed May 22 10:24:58 2019 +0800
+
+    [Docs] Fix mistakes
+
+[33mcommit ec06c0eaa5a4e6616d4cb0ff0f81f0cbae694b68[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Wed May 22 02:13:44 2019 +0800
+
+    [Docs] Update README
+
+[33mcommit 2e3eb262b11a6176bde3c0f567663fa93e78421a[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Wed May 22 01:24:27 2019 +0800
+
+    [Feat] Config.py and argparse
+
+[33mcommit bf270a76eed81afb41f3b3ba3b75e985b09cafa0[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Mon May 20 16:50:21 2019 +0800
+
+    [Feat] Use librosa for features extracting
+
+[33mcommit 8841ff7b77c1e4aca14455d751d8a208a617778e[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Sun May 19 15:19:46 2019 +0800
+
+    [Remove] Remove CNN (goodby)
+
+[33mcommit 8cf00cee6e6f18969261c357482adfabcdb21a61[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Thu May 16 20:36:13 2019 +0800
+
+    [Feat] Add LSTM model
+
+[33mcommit b2de5918d870a3cf1a9de4e4969fda0dbd2cec45[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Thu May 16 11:12:04 2019 +0800
+
+    [Docs] Fix mistakes
+
+[33mcommit 73f37bef5b12f87a2ccd982b7b23633d61b5bab9[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Thu May 16 11:01:42 2019 +0800
+
+    [Chore] Add requirements.txt
+
+[33mcommit ddf99cf268c8c046a856c70ff194eb47711fb427[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Thu May 16 10:46:45 2019 +0800
+
+    [Feat] Use Opensmile for features extracting
+
+[33mcommit d7573e2b20fc0cfd01dcb27f6d357c0715f1d870[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Sun May 5 14:37:28 2019 +0800
+
+    [Fix] Modify the length of feature in SVM
+
+[33mcommit 2f882164f44d1de5b0365063236f195e420a8b88[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Sat Apr 13 18:30:15 2019 +0800
+
+    [Add] Add trained models
+
+[33mcommit 7de5f0920f36ad5c4bad2cc3fd139410e4d74122[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Fri Apr 12 14:11:52 2019 +0800
+
+    [Update] Modify the args of SER.py
+
+[33mcommit c98a40241cc6c427e06b57c1943e27857e4f3977[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Fri Apr 12 13:07:20 2019 +0800
+
+    [Update] Modify typesetting
+
+[33mcommit 5c2aa012e50c018f18897b64a9a7ff3596382615[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Fri Apr 12 12:56:34 2019 +0800
+
+    [Add] Add SVM model
+
+[33mcommit 5a3e25ebaf368697b0d5d92dd1280e2c45774b25[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Wed Apr 10 15:14:41 2019 +0800
+
+    [Add] Add new features: plot waveform and spectrogram
+
+[33mcommit 1538345c27169473fdae29d5a9acaaf8f77d0374[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Tue Apr 9 14:47:25 2019 +0800
+
+    [Add] CNN, LSTM, MLP models completed
+
+[33mcommit 2660b00189ab1521858351e6073a69d0d15e0ee7[m
+Author: Renovamen <renovamenzxh@gmail.com>
+Date:   Tue Apr 9 02:24:09 2019 +0800
+
+    Initial commit
